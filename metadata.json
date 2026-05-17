@@ -1,0 +1,6 @@
+{
+  "name": "AllTrade Forex Academy",
+  "description": "Premium Forex education platform focusing on trust, clarity, and institutional-grade trading strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
